@@ -1,0 +1,28 @@
+{
+    "name": "Teacher 1",
+    "capability": [
+        {
+            "subject": "Subject 1",
+            "grade": "2"
+        },
+        {
+            "subject": "Subject 2",
+            "grade": "4"
+        },
+    ]
+}
+
+
+{
+    "name": "Teacher 2",
+    "capability": [
+        {
+            "subject": "Subject 1",
+            "grade": "3"
+        },
+        {
+            "subject": "Subject 2",
+            "grade": "2"
+        },
+    ]
+}

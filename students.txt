@@ -1,0 +1,14 @@
+db.students.insertOne({name: "Student 1", "dob": ISODate("2014-03-10"), "level": [
+        { "grade": "4",
+          "subject": "Subject 2",
+          "grading": 2,
+          "teacher": "Teacher 1"
+        },
+        { "grade": "2",
+          "subject": "Subject 2",
+          "grading": 1,
+          "teacher": "Teacher 2"
+        },
+    ]
+})
+
